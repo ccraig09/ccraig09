@@ -69,7 +69,3 @@ A lot of what helped me succeed in sports carried directly into software develop
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccraig09&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
----
-
-**✨ Fun Fact:** Before writing software professionally, I was playing professional basketball overseas. The path from sports to engineering wasn't traditional, but it taught me how to learn, adapt, and keep improving over time.
