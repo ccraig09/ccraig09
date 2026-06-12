@@ -1,47 +1,54 @@
-# Hi there 👋  **I'm Carlos Craig**
+# Hi there 👋 **I'm Carlos Craig**
 
-I'm a passionate Software Engineer and React Native Consultant with **over 6 years** of experience building scalable and intuitive mobile and web applications. My work bridges creative problem-solving with strategic engineering to enhance user experiences and operational efficiency. I thrive in agile environments, collaborating cross-functionally, and continually seeking growth in full-stack development and cloud architecture.
+I'm a Software Engineer with **6+ years of experience** building mobile and web applications.
+
+Most of my background is in React Native, where I've worked on products across healthcare, fintech, internal business tools, and client-facing applications. I've also spent time working with Node.js, PostgreSQL, AWS, Firebase, and native iOS and Android development.
+
+I'm currently focused on becoming a stronger full-stack engineer, learning more about software architecture, and continuing to build products that solve real problems.
 
 ---
 
 ## 🌟 **About Me**
 
-* **Currently Working On**: MAPS Project – a major confidential initiative for a client, involving extensive use of React Native, Node.js, Express, PostgreSQL, and advanced CI/CD workflows.
-* **Learning & Growth**: Deepening my expertise in AWS (Amplify, Lambda, API Gateway), exploring SwiftUI, and strengthening my native mobile development skills.
-* **Passionate About**: Building apps that meaningfully impact users’ daily lives, mentoring upcoming developers, and leveraging technology to solve real-world problems.
+* **Currently Working On**: MAPS Project — a confidential client project built with React Native, Node.js, Express, PostgreSQL, and AWS.
+* **Learning & Growth**: Expanding my backend and cloud knowledge, studying software architecture, and sharpening my native mobile development skills.
+* **Currently Exploring**: System design, AWS, open-source contributions, and building products from idea to production.
+* **Passionate About**: Mobile development, continuous learning, mentoring other developers, and building software that people genuinely enjoy using.
 
 ---
 
 ## 🚀 **Highlighted Projects**
 
-* **MAPS Project** *(Confidential Client)* – Architected and developed scalable mobile solutions with robust backend integrations and optimized user experiences, maintaining confidentiality and security standards.
-* **BuoyFi** – Engineered React Native apps, dynamic reward systems, and backend microservices, significantly improving user engagement and system performance.
-* **Unifyr** *(In Development)* – Innovative event reservation platform powered by React Native and Node.js.
-* **Zayanverse** *(In Development)* – Cross-platform streaming app leveraging Expo and Firebase for seamless multimedia experiences.
-* **BOSS** – Developed a sophisticated POS system and admin dashboard with React, React Native, XAML/C#, and PostgreSQL.
-* **Independent Apps** *(No Excusas, MEFisio, Inventario)* – Created diverse mobile applications enhancing fitness motivation, reservation management, and inventory tracking.
+* **MAPS Project** *(Confidential Client)* — Large-scale mobile application focused on backend integrations, CI/CD pipelines, and long-term maintainability.
+* **BuoyFi** — Contributed to React Native applications, rewards features, backend services, and customer-facing experiences.
+* **Unifyr** *(In Development)* — Event and reservation platform currently being rebuilt with a strong focus on architecture and maintainability.
+* **Zayanverse** *(In Development)* — Cross-platform streaming application built with Expo and Firebase.
+* **BOSS** — POS system and administration platform built with React, React Native, XAML/C#, and PostgreSQL.
+* **Independent Apps** *(No Excusas, MEFisio, Inventario)* — Applications spanning fitness, reservations, inventory management, and community-focused products.
 
 ---
 
 ## 🛠️ **Tech Stack & Skills**
 
-**Front-End:** React | React Native (Expo) | Next.js | Tailwind CSS | Material UI | JavaScript/TypeScript
+**Front-End:** React | React Native (Expo) | Next.js | TypeScript | JavaScript | Tailwind CSS | Material UI
 
 **Back-End:** Node.js | Express.js | GraphQL | PostgreSQL | Firebase
 
-**Cloud & DevOps:** AWS (Amplify, Lambda, S3, API Gateway) | Docker | GitHub Actions | CI/CD
+**Cloud & DevOps:** AWS (Amplify, Lambda, API Gateway, S3) | Docker | GitHub Actions | CI/CD
 
-**Testing & QA:** Jest | React Testing Library | Manual Testing
+**Testing & QA:** Jest | React Testing Library
 
 **Mobile Development:** Android (Java) | iOS (Swift)
 
-**Collaboration:** Jira | Agile methodologies | Cross-functional teamwork
+**Collaboration:** Agile Development | Jira | Cross-functional Teams
 
 ---
 
 ## 🏀 **From Court to Code**
 
-Before stepping fully into tech, I played professional basketball overseas. The teamwork, discipline, and resilience gained on the court profoundly influence my approach to software development, fostering strong collaboration, strategic thinking, and adaptability.
+Before becoming a software engineer, I played professional basketball overseas.
+
+A lot of what helped me succeed in sports carried directly into software development: discipline, consistency, teamwork, adaptability, and a commitment to continuous improvement.
 
 ---
 
@@ -65,6 +72,4 @@ Before stepping fully into tech, I played professional basketball overseas. The 
 
 ---
 
-**✨ Fun Fact:**  My journey from professional basketball to tech exemplifies my belief in continuous growth and resilience—core values I bring to every project and team interaction.
-
-
+**✨ Fun Fact:** Before writing software professionally, I was playing professional basketball overseas. The path from sports to engineering wasn't traditional, but it taught me how to learn, adapt, and keep improving over time.
