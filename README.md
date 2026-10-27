@@ -1,35 +1,28 @@
 # Hi, I'm Carlos 👋
 
-**React Native Engineer** building thoughtful, reliable apps for iOS and Android.
+**React Native Engineer** focused on building thoughtful, reliable experiences for iOS and Android.
 
-I have **6+ years of experience** working with React Native, Expo, and TypeScript across healthcare, financial technology, and client products. I enjoy turning complex workflows into approachable mobile experiences, improving app quality, and collaborating with engineers and designers.
+I have **6+ years of experience** with React Native, TypeScript, and cross-platform mobile development. My professional work spans healthcare, financial technology, and client applications—from everyday user flows to authentication, API integrations, testing, and releases.
 
-- 📱 **Mobile:** React Native · Expo / EAS · TypeScript · JavaScript · iOS · Android
-- 🧪 **Quality & delivery:** Jest · React Testing Library · CI/CD · GitHub Actions
-- ☁️ **APIs & cloud:** REST APIs · Node.js · AWS · Firebase · PostgreSQL
-- 🌎 **Languages:** English and Spanish (fluent)
-- 🧭 **Currently exploring:** Mobile architecture, accessibility, and maintainable cross-platform development
+I enjoy solving practical engineering problems, collaborating with product teams, and writing code that's easier to maintain.
 
-## Selected public projects
+### What I work with
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Evernest](https://github.com/ccraig09/evernest) | TypeScript product development and a thoughtful user experience |
-| [Rambling Guardian](https://github.com/ccraig09/rambling-guardian) | Hardware-adjacent TypeScript experimentation with an ESP32 |
-| [Inventario](https://github.com/ccraig09/Inventario) | Inventory and barcode-scanning workflows |
-| [Mudra](https://github.com/ccraig09/Mudra) | Restaurant ordering, favorites, and search/filter features |
-| [MEFisio](https://github.com/ccraig09/MEFisio) | Appointment booking and client-facing mobile flows |
+- **Mobile:** React Native · Expo · TypeScript · JavaScript · iOS · Android
+- **Testing & delivery:** Jest · React Testing Library · CI/CD · GitHub Actions
+- **Services:** REST APIs · Node.js · AWS · Firebase · PostgreSQL
+- **Languages:** English and Spanish (fluent)
 
-Some of my professional and current client projects are private, so this profile focuses on work I can share publicly.
+### What I'm focused on
 
-## Beyond code 🏀
+Deepening my expertise in mobile architecture, accessibility, testing, and dependable app delivery.
 
-Before software engineering, I played professional basketball overseas. The discipline, teamwork, and adaptability from that experience still shape how I approach building software.
+Much of my professional work is in private or client-owned repositories. I'm building and refining new work, and I'll share projects publicly when they're ready.
 
-## Connect
+### Beyond code 🏀
+
+Before becoming a software engineer, I played professional basketball overseas. That experience shaped how I approach teamwork, discipline, and continuous improvement.
+
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/carloscraig/) · [Email](mailto:carlos.craig09@gmail.com)
-
----
-
-*Always learning, always building.*
